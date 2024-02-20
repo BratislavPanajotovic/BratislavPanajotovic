@@ -1,17 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bratislav Panajotovic</h1>
 <h3 align="center">A passionate frontend developer from Serbia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bratislavpanajotovic&label=Profile%20views&color=0e75b6&style=flat" alt="bratislavpanajotovic" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bratislavpanajotovic" alt="bratislavpanajotovic" /></a> </p>
-
-- 🔭 I’m currently working on **React course**
-
-- 🌱 I’m currently learning **React,Typescript, Bootstrap**
-
-- 👨‍💻 All of my projects are available at [https://github.com/BratislavPanajotovic](https://github.com/BratislavPanajotovic)
-
-- 📫 How to reach me **panajotovicbratislav@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -104,7 +93,15 @@
     />
   </a>
 </p>
+- 🔭 I’m currently working on **React course**
 
+- 🌱 I’m currently learning **React,Typescript, Bootstrap**
+
+- 👨‍💻 All of my projects are available at [https://github.com/BratislavPanajotovic](https://github.com/BratislavPanajotovic)
+
+- 📫 How to reach me **panajotovicbratislav@gmail.com**
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bratislavpanajotovic" alt="bratislavpanajotovic" /></a> </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bratislavpanajotovic&show_icons=true&locale=en&layout=compact" alt="bratislavpanajotovic" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bratislavpanajotovic&show_icons=true&locale=en" alt="bratislavpanajotovic" /></p>

@@ -90,13 +90,9 @@
 </p> 
 <p align="center">
 - 🔭 I’m currently working on **React course**
-
 - 🌱 I’m currently learning **React,Typescript, Bootstrap**
-
 - 👨‍💻 All of my projects are available at [https://github.com/BratislavPanajotovic](https://github.com/BratislavPanajotovic)
-
 - 📫 How to reach me **panajotovicbratislav@gmail.com**
-
 </p>
 
 <h3 align="center">Connect with me:</h3>

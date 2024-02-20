@@ -87,7 +87,8 @@
       height="40"
     />
   </a>
-</p>
+</p> 
+<p align="center">
 - 🔭 I’m currently working on **React course**
 
 - 🌱 I’m currently learning **React,Typescript, Bootstrap**
@@ -96,14 +97,16 @@
 
 - 📫 How to reach me **panajotovicbratislav@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+</p>
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/bratislav panajotović" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bratislav panajotović" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/user:20759795" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:20759795" height="30" width="40" /></a>
 <a href="https://instagram.com/bratis.lav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bratis.lav" height="30" width="40" /></a>
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bratislavpanajotovic" alt="bratislavpanajotovic" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bratislavpanajotovic" alt="bratislavpanajotovic" /></a> </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bratislavpanajotovic&show_icons=true&locale=en&layout=compact" alt="bratislavpanajotovic" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bratislavpanajotovic&show_icons=true&locale=en" alt="bratislavpanajotovic" /></p>

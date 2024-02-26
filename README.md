@@ -100,7 +100,7 @@
 <a href="https://stackoverflow.com/users/user:20759795" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:20759795" height="30" width="40" /></a>
 <a href="https://instagram.com/bratis.lav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bratis.lav" height="30" width="40" /></a>
 </p>
-<a href="https://app.daily.dev/bratislavpanajotovic"><img src="https://api.daily.dev/devcards/v2/MvLbdLU0gBNyWeQPhqKJw.png?r=ys8&type=default" width="356" alt="Bratislav Panajotovic's Dev Card"/></a>
+<a align="center" href="https://app.daily.dev/bratislavpanajotovic"><img src="https://api.daily.dev/devcards/v2/MvLbdLU0gBNyWeQPhqKJw.png?r=ys8&type=default" width="356" alt="Bratislav Panajotovic's Dev Card"/></a>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bratislavpanajotovic" alt="bratislavpanajotovic" /></a> </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bratislavpanajotovic&show_icons=true&locale=en&layout=compact" alt="bratislavpanajotovic" /></p>

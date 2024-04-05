@@ -75,7 +75,7 @@
 </p> 
 <p align="center">
 - 🔭 I’m currently working on **React course** <br>
-- 🌱 I’m currently learning **React,Typescript, Bootstrap** <br>
+- 🌱 I’m currently learning **React, Typescript, Tailwind** <br>
 - 📫 How to reach me **panajotovicbratislav@gmail.com**
 </p>
 

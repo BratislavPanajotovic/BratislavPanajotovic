@@ -31,9 +31,9 @@
       height="40"
     />
   </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img
-      src="[https://www.svgrepo.com/show/374118/tailwind.svg)]"
+      src="[https://www.svgrepo.com/show/374118/tailwind.svg]"
       alt="tailwindcss"
       width="40"
       height="40"

@@ -82,9 +82,10 @@
   </a>
 </p> 
 <p align="center">
-- 🔭 I’m currently working on **React course** <br>
-- 🌱 I’m currently learning **React, Typescript, Tailwind** <br>
-- 📫 How to reach me **panajotovicbratislav@gmail.com**
+- 🔭 I’m currently searching for a job. <br>
+
+🌱 In the meantime, I'm sharpening my skills in React, TypeScript, Tailwind. <br>
+📫 You can reach me at panajotovicbratislav@gmail.com.
 </p>
 
 <h3 align="center">Connect with me:</h3>
